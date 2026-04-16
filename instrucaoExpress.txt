@@ -1,0 +1,9 @@
+npm init -y
+npm install express
+node nome.js
+
+npm install -g nodemon
+nodemon server.js
+
+npm install formidable
+npm install node-json-db
